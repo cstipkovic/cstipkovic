@@ -5,4 +5,4 @@
 
 I'm a Brazilian Software Engineer.
 
-- 🌱 I’m currently learning TypeScript, Angular and ReactJS
+- 🌱 I’m currently studying ReactJS, TypeScript and Python
