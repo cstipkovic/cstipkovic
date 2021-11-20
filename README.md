@@ -1,6 +1,6 @@
 ### Hi, I'm Clauber 👋
 
-I'm working with Software Engineer (Node.JS, JavaScript and AWS Tools) and Front-End Engineer (React.JS, Sass and Single-SPA)
+I'm working with Software Engineering (Node.JS, JavaScript and AWS Tools) and Front-End Engineer (React.JS, Sass and Single-SPA)
 
 I’m currently studying ReactJS, TypeScript and Python
 
