@@ -2,7 +2,7 @@
 
 I'm working with Software Engineering (Node.JS, JavaScript and AWS Tools) and Front-End Engineering (React.JS, CSS/Sass and Single-SPA)
 
-I’m currently studying ReactJS, TypeScript and Python
+I’m currently studying Golang, LLMs, TypeScript and Python.
 
 <br>
 
